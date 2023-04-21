@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1, "nombre": "Jordan Air 1 Mid", "precio": 63000, "talle": 42, "desc": "Zapatillas Jordan Air 1 Mid talle 42.", "img": "../img/jordan-air-1-mid.jpg"
+    },
+    {
+        "id": 2, "nombre": "Jordan Air 3 Retro", "precio": 110000, "talle": 43, "desc": "Zapatillas Jordan Air 3 Retro talle 43.", "img": "../img/jordan-air-3-retro.jpg"
+    },
+    {
+        "id": 3, "nombre": "Jordan Air 3 Retro Darkiris", "precio": 103000, "talle": 43, "desc": "Zapatillas Jordan Air 3 Retro Darkiris talle 43.", "img": "../img/jordan-air-3-retro-darkiris.jpg"
+    },
+    {
+        "id": 4, "nombre": "Jordan Air 5 Retro", "precio": 80000, "talle": 42, "desc": "Zapatillas Jordan Air 5 Retro Para Hombre talle 42.", "img": "../img/jordan-air-5-retro.jpg"
+    },
+    {
+        "id": 5, "nombre": "Jordan Air 5 Retro Gris", "precio": 80000, "talle": 41, "desc": "Zapatillas Jordan Air 5 Retro Gris talle 41.", "img": "../img/jordan-air-5-retro-gris.jpg"
+    },
+    {
+        "id": 6, "nombre": "Jordan Air 7 Retro", "precio": 75300, "talle": 41, "desc": "Zapatillas Jordan Air 7 Retro talle 41.", "img": "../img/jordan-air-7-retro.jpg"
+    },
+    {
+        "id": 7, "nombre": "Jordan Air 11 Retro", "precio": 73000, "talle": 42, "desc": "Zapatillas Jordan Air 11 Retro talle 42.", "img": "../img/jordan-air-11-retro.jpg"
+    },
+    {
+        "id": 8, "nombre": "Jordan Air 200", "precio": 65000, "talle": 43, "desc": "Zapatillas Jordan Air 200 talle 43.", "img": "../img/jordan-air-200.jpg"
+    },
+    {
+        "id": 9, "nombre": "Jordan Air Jordan 6 Retro", "precio": 81000, "talle": 41, "desc": "Zapatillas Jordan Air Jordan 6 Retro talle 41.", "img": "../img/jordan-air-jordan-6-retro.jpg"
+    },
+    {
+        "id": 10, "nombre": "Jordan Air Retro 11 Low", "precio": 67000, "talle": 40, "desc": "Zapatillas Jordan Air Retro 11 Low talle 40.", "img":"../img/jordan-air-retro-11-low.jpg"
+    },
+    {
+        "id": 11, "nombre": "Jordan Delta 3 Low", "precio": 57300, "talle": 40, "desc": "Zapatillas Jordan Delta 3 Low talle 40.", "img": "../img/jordan-delta-3-low.jpg"
+    },
+    {
+        "id": 12, "nombre": "Jordan Zion 2", "precio": 62500, "talle": 41, "desc": "Zapatillas Jordan Zion 2 talle 41.", "img":"../img/jordan-zion-2.jpg"
+    }
+]
